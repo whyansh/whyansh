@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @whyansh  
+### 👋 Hi, I’m Ansh  
 - 👀 Interested in AI/ML, full stack websites, SaaS, automation, and app development.  
 - 🌱 Currently learning full-stack web development.  
 - 💞️ Open to collaborating once I master full-stack dev.  
