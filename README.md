@@ -3,4 +3,4 @@
 - 🌱 Currently learning full-stack web development.  
 - 💞️ Open to collaborating once I master full-stack dev.  
 - 📫 Reach me on LinkedIn & Twitter @whyansh  
-- ⚡ Fun fact: We are all working from rocks; they are just silicon chips—crazy.  
+- ⚡ Fun fact: We are all working from rocks; they are just silicon chips, crazy no?
